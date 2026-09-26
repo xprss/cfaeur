@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CFA ⇄ EUR</string>
+    <string name="widget_description">Converti FCFA e EUR dalla schermata Home</string>
+    <string name="source_label">Importo</string>
+    <string name="result_label">Risultato</string>
+    <string name="rate_label">1 EUR = 655,957 FCFA</string>
+    <string name="fees_note">Tasso ufficiale BCEAO. Eventuali commissioni di cambio escluse.</string>
+    <string name="swap_description">Inverti le valute</string>
+    <string name="delete_description">Cancella ultima cifra</string>
+    <string name="clear_description">Azzera importo</string>
+    <string name="open_app_description">Apri l’app</string>
+    <string name="widget_hint">Aggiungi il widget “CFA ⇄ EUR” dalla schermata Home per convertire con i tasti, senza aprire l’app.</string>
+</resources>

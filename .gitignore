@@ -8,3 +8,5 @@ local.properties
 *.jks
 *.keystore
 *.base64
+/.local-secrets/
+__pycache__/

@@ -12,8 +12,8 @@ android {
         applicationId = "com.cfaeur.converter"
         minSdk = 26
         targetSdk = 35
-        versionCode = providers.gradleProperty("appVersionCode").orNull?.toInt() ?: 2
-        versionName = providers.gradleProperty("appVersionName").orNull ?: "1.1.0"
+        versionCode = providers.gradleProperty("appVersionCode").orNull?.toInt() ?: 3
+        versionName = providers.gradleProperty("appVersionName").orNull ?: "1.1.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

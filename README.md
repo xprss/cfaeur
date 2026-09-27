@@ -1,6 +1,6 @@
 # CFA ⇄ EUR
 
-Convertitore Android offline tra franco CFA dell'Africa occidentale (FCFA/XOF) ed euro. Include un widget 4×4 espandibile a 4×5 con tastierino sulla schermata Home e una schermata di conversione nell'app.
+Convertitore Android offline tra franco CFA dell'Africa occidentale (FCFA/XOF) ed euro. Include un widget 4×4 espandibile a 4×5 o 5×4 con tastierino sulla schermata Home e una schermata di conversione nell'app.
 
 Il calcolo usa la parità ufficiale [BCEAO](https://www.bceao.int/fr/content/histoire-du-franc-cfa): **1 EUR = 655,957 FCFA**. Gli importi in EUR sono arrotondati a due decimali; quelli in FCFA all'unità. Eventuali commissioni di cambio non sono incluse.
 
